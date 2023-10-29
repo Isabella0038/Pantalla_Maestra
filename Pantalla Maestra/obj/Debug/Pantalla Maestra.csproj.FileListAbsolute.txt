@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Pantalla Maestra\bin\Debug\Pantalla Maestra.exe.config
+C:\Users\Asus\source\repos\Pantalla Maestra\bin\Debug\Pantalla Maestra.exe
+C:\Users\Asus\source\repos\Pantalla Maestra\bin\Debug\Pantalla Maestra.pdb
+C:\Users\Asus\source\repos\Pantalla Maestra\obj\Debug\Pantalla Maestra.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Pantalla Maestra\obj\Debug\Pantalla_Maestra.Form1.resources
+C:\Users\Asus\source\repos\Pantalla Maestra\obj\Debug\Pantalla_Maestra.Properties.Resources.resources
+C:\Users\Asus\source\repos\Pantalla Maestra\obj\Debug\Pantalla Maestra.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Pantalla Maestra\obj\Debug\Pantalla Maestra.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Pantalla Maestra\obj\Debug\Pantalla Maestra.exe
+C:\Users\Asus\source\repos\Pantalla Maestra\obj\Debug\Pantalla Maestra.pdb
